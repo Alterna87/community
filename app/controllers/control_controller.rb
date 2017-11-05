@@ -1,0 +1,10 @@
+class ControlController < ApplicationController
+
+  def saludo
+    
+    @myName = 'Francisca'
+    
+
+  end
+
+end
